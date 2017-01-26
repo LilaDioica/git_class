@@ -1,4 +1,5 @@
 # git_class
+## Formation IPGP
 
 C'est un projet pour apprendre à utiliser git et github
 
